@@ -5,3 +5,4 @@
 - jotain leivän päälle
 - soijarouhe
 - omenoita
+- karkkia
