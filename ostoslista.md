@@ -4,3 +4,4 @@
 - ruokaa
 - jotain leivän päälle
 - soijarouhe
+- omenoita
