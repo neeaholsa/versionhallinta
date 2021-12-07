@@ -6,3 +6,5 @@
 - soijarouhe
 - omenoita
 - karkkia
+- kahvia
+- teetä
